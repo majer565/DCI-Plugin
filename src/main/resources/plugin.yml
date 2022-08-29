@@ -1,0 +1,6 @@
+name: DiscordBotIntegrationPlugin
+version: '${version}'
+main: me.filipmajewski.discordbotintegrationplugin.DiscordBotIntegrationPlugin
+api-version: 1.18
+authors: [ majer565 ]
+description: Plugin for integrate your server with any discord bot
